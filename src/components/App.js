@@ -4,9 +4,6 @@ import Header from "./Header";
 import About from "./About";
 import ArticleList from "./ArticleList";
 
-// console.log(blogData);
-
-
 function App() {
   return (
     <div className="App">
@@ -16,5 +13,5 @@ function App() {
     </div>
   );
 }
-export default App;
 
+export default App;
